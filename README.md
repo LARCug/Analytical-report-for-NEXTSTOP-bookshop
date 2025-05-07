@@ -1,5 +1,6 @@
 # Analytical-report-for-NEXTSTOP-bookshop
 ![DASHBOARD 6](https://github.com/user-attachments/assets/314aa37c-fb0e-40a8-92c6-498cf4e60318)
+
 When last did you,yes you visit a bookshop?
 
 The answer could probably be NEVER.
@@ -22,6 +23,7 @@ What is the problem?
 NEXTSTOP is faced with problem of making low sales with the books in stock from 2009-2019.
 
 Key Observations
+
 Yearly book sales trend
 They made most sales in the year 2009 generating a revenue of $770 in sales and made the least sales in 2019 making $504.
 
@@ -38,11 +40,16 @@ Most reviewed books
 The most reviewed book in stock based on client reviews was the titled "The Fault in our stars" with a total of 201,928 reviews while the book with the least reviews was book tilted "Divine soul mind body healing and transmission system" with a total of 37 reviews.
 
 Recommendations
+
 -Since there is a decrease in sales across years, it's obvious that there is a decrease in foot traffic due to the dominance of online retailers. I recommend the owner hosts events and workshops to attract customers and also adapt to technology by creating an E-commerce platform online for online customers. This will inturn drive sales and revenue generation.
 
 - The owners should create a software to track stock inventory to ensure that the best selling books,books with topmost reviews and books with highest ratings will always been in stock,offline and online.
 
 -The owners should also diversify in different books like novel,E-books,journals, etc to attract customers offline and online. They should also keep up with latest market trends in best selling books in other to keep business running effectively.
+
+Data visualisation tool
+
+Microsoft Excel
 
 In conclusion, Problems can be solved effectively by analysing datasets.
 
