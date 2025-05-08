@@ -7,9 +7,9 @@ The answer could probably be NEVER.
 
 Likewise ever other business establishment,a bookshop selling published books publicly would want to make more sales from the stocked books. Of all the challenges faced by bookshops,the critical ones include,
 
-- Competition with online retailers
+-Competition with online retailers
 
-- An obvious decline in foot traffic in business locations
+-An obvious decline in foot traffic in business locations
 
 -Poor inventory management
 
